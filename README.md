@@ -1,7 +1,8 @@
 Olá! Eu sou a Gabriela Perdigão! 
-- Estudando Análise e Desenvolvimento de Sistemas
-- Email: gabrielaperdigaosilva@gmail.com
-- Faço parte do Formare como aluna da empresa "Capricónio Têxtil".
+- Técnico em Desenvolvimento de Sistemas.
+- Estudando Análise e Desenvolvimento de Sistemas no IFSP.
+- Email: gabrielaperdigaosilva@gmail.com.
+- Aluna do projeto Formare da empresa "Capricórinio Têxtil".
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriela-perdigao&show_icons=true&theme=dark)](https://github.com/gabriela-perdigao/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbelisario&theme=dark)
