@@ -20,7 +20,11 @@ Olá! Eu sou a Gabriela Perdigão!
 </div>
 
   
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gabriela-perdigao?tab=overview&from=2025-04-01&to=2025-04-27" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gabriela-perdigao?tab=overview&from=2025-04-01&to=2025-04-27" />
+  <img alt="github-snake" src="https://github.com/gabriela-perdigao?tab=overview&from=2025-04-01&to=2025-04-27" />
+</picture>
   
 
 
